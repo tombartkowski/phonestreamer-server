@@ -1,0 +1,12 @@
+{
+  "diff": true,
+  "spec": "src/**/*.test.ts",
+  "extension": ["ts"],
+  "package": "./package.json",
+  "reporter": "spec",
+  "slow": "200",
+  "timeout": "2000",
+  "recursive": true,
+  "ui": "bdd",
+  "require": "ts-node/register/transpile-only"
+}

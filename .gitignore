@@ -1,0 +1,5 @@
+.env
+firebase-admin-key.json
+/node_modules
+firebase-debug.log
+ui-debug.log
